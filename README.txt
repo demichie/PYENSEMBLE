@@ -4,7 +4,7 @@ STEP 1: create a CSV file with uncertain input parameters
 
 > python create_ensemble_Cartesian.py
 
-The number of sample, the uncertain parameters and their ranges are defined in the create_ensemble_Cartesian.py file
+The number of samples, the uncertain parameters and their ranges are defined in the create_ensemble_Cartesian.py file
 Each parameters has a keyword, for example "var1"
 
 STEP 2: create folders
